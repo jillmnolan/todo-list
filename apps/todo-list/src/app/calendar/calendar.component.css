@@ -1,0 +1,15 @@
+div {
+  display:flex;
+  -o-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  flex-direction: column;
+  -ms-align-items: center;
+  -o-align-items: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+mat-calendar {
+  width: 500px;
+}
